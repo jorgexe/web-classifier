@@ -3,9 +3,6 @@
 A browser-based application that uses machine learning to classify objects in real-time via webcam. Pre-configured for Rock-Paper-Scissors recognition but can be trained to recognize any object.
 
 ![Demo](demos/demo.gif)
-![screenshot1](demos/s1.png)
-![screenshot2](demos/s2.png)
-![screenshot3](demos/s3.png)
 
 ## Features
 
